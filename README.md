@@ -1,1 +1,1 @@
-# EULAIncognitoChat
+# IncognitoChat-EULA
